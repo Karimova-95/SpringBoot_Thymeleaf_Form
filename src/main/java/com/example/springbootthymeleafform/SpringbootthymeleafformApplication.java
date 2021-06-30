@@ -9,5 +9,4 @@ public class SpringbootthymeleafformApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootthymeleafformApplication.class, args);
     }
-
 }
